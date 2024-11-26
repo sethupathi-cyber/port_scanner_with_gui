@@ -23,5 +23,5 @@ read the requirements.txt
 1. Clone this repository to your local machine using Git:
 
    ```bash
-   git clone https://github.com/your-username/port-scanner.git
-   cd port-scanner
+   git clone https://github.com/sethupathi-cyber/port_scanner_with_gui.git
+   cd port_scanner_with_gui.git
